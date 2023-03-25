@@ -1,0 +1,25 @@
+.a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:50px auto;
+    object-position: 10px;
+    background-color: white;
+    border-radius: 100px;
+    font-size: 50px;
+    border: none;
+    padding: 50px;
+    margin-top: 500px;
+    transition: 0.3s;
+}
+
+.a:hover {
+    background-color: black;
+    color: white;
+    border-radius: 0px;
+    font-size: 30px;
+}
+
+
+
+
