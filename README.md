@@ -1,3 +1,3 @@
 # umjunsik
 엄준식은살아있다
-https://hyungyu07.github.io/umjunsik/
+https://hyungyu627.github.io/umjunsik/
